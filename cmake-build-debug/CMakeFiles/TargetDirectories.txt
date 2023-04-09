@@ -1,0 +1,3 @@
+/Users/polina/Desktop/finance/BSMmodel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/polina/Desktop/finance/BSMmodel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/polina/Desktop/finance/BSMmodel/cmake-build-debug/CMakeFiles/BSMmodel.dir

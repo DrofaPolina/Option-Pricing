@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/polina/Desktop/finance/BSMmodel/bintree.h
+
+/Users/polina/Desktop/finance/BSMmodel/greeks.h
+iostream
+-
+cmath
+-
+algorithm
+-
+
+/Users/polina/Desktop/finance/BSMmodel/main.cpp
+iostream
+-
+methods.h
+/Users/polina/Desktop/finance/BSMmodel/methods.h
+pricing.h
+/Users/polina/Desktop/finance/BSMmodel/pricing.h
+bintree.h
+/Users/polina/Desktop/finance/BSMmodel/bintree.h
+greeks.h
+/Users/polina/Desktop/finance/BSMmodel/greeks.h
+option_class.h
+/Users/polina/Desktop/finance/BSMmodel/option_class.h
+iostream
+-
+cmath
+-
+
+/Users/polina/Desktop/finance/BSMmodel/methods.h
+cmath
+-
+
+/Users/polina/Desktop/finance/BSMmodel/option_class.h
+
+/Users/polina/Desktop/finance/BSMmodel/pricing.h
+vector
+-
+
